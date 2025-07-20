@@ -7,7 +7,6 @@ use solana_program::{
     instruction::Instruction,
 };
 
-
 declare_id!("EqqmWW1mQC75v7g3R24ZGoVKVkRwNoxQZ7xGM3D7Sux9");
 
 #[program]
